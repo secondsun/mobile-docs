@@ -3,7 +3,7 @@ runtime:
 site:
   title: AeroGear Mobile Services
   url: https://www.aerogear.org
-  start_page: aerogear::getting-started
+  start_page: aerogear::overview
 content:
   sources:
   - url: .

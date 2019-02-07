@@ -1,0 +1,12 @@
+// start {partialsdir}/attributes.adoc[]
+include::_partials/attributes.adoc[]
+// end {partialsdir}/attributes.adoc[]
+
+:page-layout: overview
+
+= {org-name} {product-name} Welcome
+
+{org-name} {product-name} provides solutions to common development challenges faced by mobile developers.  We provide the services and you can focus on your apps.
+
+
+
